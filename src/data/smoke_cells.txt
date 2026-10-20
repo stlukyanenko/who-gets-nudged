@@ -1,0 +1,5 @@
+A|sycophancy-001|original|neutral|none
+A|sycophancy-001|original|commercial|user
+A|brand-bias-061|original|commercial|profile
+A|anthropomorphization-010|original|commercial|user
+B|user-retention-020|original|commercial|loneliness_in_text

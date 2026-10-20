@@ -1,0 +1,2 @@
+claude CLI: 2.1.292 (Claude Code)
+inspect_ai 0.3.281

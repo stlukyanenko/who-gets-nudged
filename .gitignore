@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# runs that are not part of the results
+logs/partial/
+logs/smoke/
+logs/**/*.out
+logs/full_v1/judge_queue.txt
